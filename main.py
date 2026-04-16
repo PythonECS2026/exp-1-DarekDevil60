@@ -3,4 +3,5 @@
 # Coder: 
 # Date:
 
-# Write your code here
+name=input("Enter your name")
+print("Hello, " + name + "!Welcome to Rizvi College of Engineering.")
